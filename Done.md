@@ -17,4 +17,8 @@
    - Potential energy ( U = 1/2 * C * V * V)
    - Gravitational force ( F = G * m1 * m2 / r * r)
    - Linear equation , f(x) = x + 3
-2. Started with Python for everybody online course.   
+2. Started with Python for everybody online course.  
+
+#### 17 March 2020
+- I have completed chapter 1 of P4E and passsed the assignment. See the attached link below. https://www.coursera.org/learn/python/exam/WiLXL/chapter-1/attempt?redirectToCover=true
+- 
