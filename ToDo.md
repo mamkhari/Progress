@@ -14,3 +14,6 @@ commands.
 
 #### 17 March 2020
 1. Attend online classes (P4E course).
+
+#### 18 March 2020
+1. Complete Chapter 2 (P4E course)
