@@ -27,3 +27,8 @@
 - https://www.coursera.org/learn/python/exam/TlsQ7/chapter-2/view-attempt
 - https://www.py4e.com/tools/pythonauto/?PHPSESSID=ce1536a12e6aa30de4d4be7c336195ad
 - https://www.py4e.com/tools/pythonauto/?PHPSESSID=5eab703a2b5b666b77e2ced77ff349df
+
+#### 19 March 2020
+1. I completed chapter 3 which covered conditional statemennts.
+2. I revisited my project and converted it into functions.
+ 
