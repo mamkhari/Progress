@@ -23,12 +23,21 @@
 - I have completed chapter 1 of P4E and passsed the assignment. See the attached link below. https://www.coursera.org/learn/python/exam/WiLXL/chapter-1/attempt?redirectToCover=true
 
 #### 18 March 2020
-1.  I have completed chapter 2 and wrote the assignments.See the links below:
-- https://www.coursera.org/learn/python/exam/TlsQ7/chapter-2/view-attempt
-- https://www.py4e.com/tools/pythonauto/?PHPSESSID=ce1536a12e6aa30de4d4be7c336195ad
-- https://www.py4e.com/tools/pythonauto/?PHPSESSID=5eab703a2b5b666b77e2ced77ff349df
+1.  I have completed chapter 2 and wrote the assignments.
 
 #### 19 March 2020
 1. I completed chapter 3 which covered conditional statemennts.
-2. I revisited my project and converted it into functions.
+2. I revisited my project and converted it to functions.
+
+#### 20 March 2020
+- I continued with python classes
+
+#### 23 March 2020 - 27 March 2020
+- I couldn't attend online classes because I had no internet connection
+- I created a pull request  which was a refactoring of a code
+- I read about Docstrings,parsing arguments, try and except method 
+- I worked on resolving the comments.
+
+#### 30 March 2020
+- Completed course and obtained a certificate.
  

@@ -7,7 +7,7 @@
 5. Refactor your .py project by converting some code to list comprehension.
 6. Read about Alias long linux 
 commands.
-#### 23 March 2020
+####  March 2020
 1. Add test to my project:
    - Unit tests
    - Type of test
@@ -16,4 +16,7 @@ commands.
 2.  CI / CD - Research
     - Devops - (tools)
     - Docker/Jenkins
+
+#### 31 March 2020
+- Resolve all comments from the PR
     
