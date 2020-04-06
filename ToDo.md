@@ -18,5 +18,9 @@ commands.
     - Docker/Jenkins
 
 #### 31 March 2020
-- Resolve all comments from the PR
+- Address comments from a reviewed pull request
+- Sign up for Udemy course "Automate the Boring Stuff with Python Programming."
+
+#### 01 April - 03 April 2020
+- Attend classes for Automate the Boring Stuff with Python Programming
     
