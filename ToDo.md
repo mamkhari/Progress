@@ -30,5 +30,5 @@ commands.
 - Cover chapter 8 of "Python Data Structures."
 #### 20 April 2020
 - Address comments
-- Do chapter 9 of "Python Data Structures"
->>>>>>> f3805b859d2e04f1a429aa6562b5795cbaf74430
+- Do chapter 9 of "Python Data Structures"   
+ ~~>>>>>>> f3805b859d2e04f1a429aa6562b5795cbaf74430~~
