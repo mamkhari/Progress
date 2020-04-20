@@ -10,7 +10,7 @@
 - [ ] Refactor your .py project by converting some code to list comprehension.
 - [ ] Read about Alias long Linux commands.
 
-###  March 2020
+### 23 March 2020
 - [ ] Add test to my project:
     - Read up about TDD
     - Unit tests
@@ -29,4 +29,13 @@
 
 ## April
 ### 01 April - 03 April 2020
-- [ ] Attend classes for Automate the Boring Stuff with Python Programming
+- [x] Attend classes for Automate the Boring Stuff with Python Programming.
+
+### 15 April 2020
+- [ ] Enroll for "Python Data Structures"
+- [ ]I will cover chapter 6 and chapter 7 of the course. ( Strings and Files)
+### 16 April 2020
+- Cover chapter 8 of "Python Data Structures."
+### 20 April 2020
+-[ ] Address comments   
+-[x] Do chapter 9 of "Python Data Structures" 

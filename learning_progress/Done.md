@@ -45,6 +45,3 @@
 Addressed comments
 #### 11 April 2020
 - I have successfully completed 9.5 total hours of Automate the Boring Stuff with Python Programming online course.
-#### 16 April 2020
-- I learned about python files through https://www.py4e.com/html3/07-file.
-- I learned about opening files, reading files,  searching through a file, using try, except and open, writing files and debugging.
