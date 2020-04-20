@@ -43,7 +43,5 @@
 
 #### 31 March 2020
 Addressed comments
-#### April 2020
+#### 11 April 2020
 - I have successfully completed 9.5 total hours of Automate the Boring Stuff with Python Programming online course.
-
- 
