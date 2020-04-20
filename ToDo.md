@@ -20,7 +20,6 @@ commands.
 #### 31 March 2020
 - Address comments from a reviewed pull request
 - Sign up for Udemy course "Automate the Boring Stuff with Python Programming."
-
 #### 01 April - 03 April 2020
 - Attend classes for Automate the Boring Stuff with Python Programming
 
@@ -28,8 +27,8 @@ commands.
 - Enroll for "Python Data Structures"
 - I will cover chapter 6 and chapter 7 of the course. ( Strings and Files)
 #### 16 April 2020
-- Cover chapter 8 of "Automate the Boring Stuff with Python Programming."
+- Cover chapter 8 of "Python Data Structures."
 #### 20 April 2020
 - Address comments
-- Do chapter 9 of "Automate the Boring Stuff with Python Programming."
-
+- Do chapter 9 of "Python Data Structures"
+>>>>>>> f3805b859d2e04f1a429aa6562b5795cbaf74430
