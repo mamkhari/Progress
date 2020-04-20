@@ -37,5 +37,5 @@
 ### 16 April 2020
 - Cover chapter 8 of "Python Data Structures."
 ### 20 April 2020
--[ ] Address comments   
--[x] Do chapter 9 of "Python Data Structures" 
+- [ ] Address comments   
+- [x] Do chapter 9 of "Python Data Structures" 
