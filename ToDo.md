@@ -42,8 +42,19 @@
 - [x]I will cover chapter 6 and chapter 7 of the course. ( Strings and Files)
 ### 16 April 
 - Cover chapter 8 of "Python Data Structures."
-### 20 April 2020
+### 20 April
 - [x] Address comments   
 - [x] Do chapter 9 of "Python Data Structures" 
 ### 21 April 
 - [x] Merge ToDo.md and Done.md together into 1 file.
+### 22 - 23 April 
+- [x] Chapter 10: Use tuples in conjunction with dictionaries to accomplish multi-step tasks like sorting or looping through all of the data in a dictionary.
+### 24 April
+- [x]Adress comments ad create a PR
+### 28 - 30 April
+- [x] Read a paper "MeerKAT design overview" <https://drive.google.com/file/d/0B8fhAW5QnZQWT3IwQlZ4RjRlU1U/view>
+---
+## May 2020
+### 04 May 
+- [x] Go through the [storyline for introduction to Radio Astronomy] <https://docs.google.com/presentation/d/1MIEu3Suj_Rdz7X9rnHHXIRux0_UVlSojjwvQWJyyTn8/edit#slide=id.g84b243c160_0_0>
+ - [x] Enroll for “learning how to learn” coursera course  <https://www.coursera.org/learn/learning-how-to-learn#syllabus>
