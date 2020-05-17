@@ -50,7 +50,7 @@
 ### 22 - 23 April 
 - [x] Chapter 10: Use tuples in conjunction with dictionaries to accomplish multi-step tasks like sorting or looping through all of the data in a dictionary.
 ### 24 April
-- [x]Adress comments ad create a PR
+- [x] Adress comments and create a PR
 ### 28 - 30 April
 - [x] Read a paper "MeerKAT design overview" <https://drive.google.com/file/d/0B8fhAW5QnZQWT3IwQlZ4RjRlU1U/view>
 ---
