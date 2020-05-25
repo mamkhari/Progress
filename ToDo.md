@@ -1,6 +1,7 @@
 # My ToDo list
 
 ## March 2020
+
 <<<<<<< HEAD
 
 ### 09 - 13 March 
@@ -17,8 +18,10 @@
 - [ ] Refactor your .py project by converting some code to list comprehension.
 - [x] Read about Alias long Linux commands.
 
-### 23 March 
+### 23 March
+
 =======
+
 ### 16 March 2020
 
 - [ ] Coursera online course (Python for everybody)
@@ -29,6 +32,7 @@
 - [ ] Read about Alias long Linux commands.
 
 ###  March 2020
+
 >>>>>>> parent of d588605... 
 - [ ] Add test to my project:
     - Read up about TDD
@@ -81,4 +85,4 @@
 ## April
 ### 01 April - 03 April 2020
 - [ ] Attend classes for Automate the Boring Stuff with Python Programming
->>>>>>> parent of d588605... 
+>>>>>>> parent of d588605...
