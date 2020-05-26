@@ -4,9 +4,9 @@
 
 ### 28 February
 
-1. Created a new git repository to track my work progress.(<https://github.com/mamkhari/Progress>)
-2. Refactored my piece of code and addressed the comments on the PR request.(<https://github.com/mamkhari/extract_sensor_names/pull/3>)
-3. Revised chapter 4: Functions of PY4E.(<https://www.py4e.com/html3/04-functions>)
+1. Created a new git repository to track my work progress.<https://github.com/mamkhari/Progress>
+2. Refactored my piece of code and addressed the comments on the PR request.<https://github.com/mamkhari/extract_sensor_names/pull/3>
+3. Revised chapter 4: Functions of PY4E.<https://www.py4e.com/html3/04-functions>
 
 - - -
 
@@ -28,7 +28,7 @@
 
 ### 17 March
 
-- I have completed chapter 1 of P4E and passsed the assignment. See the attached link below. (<https://www.coursera.org/learn/python/exam/WiLXL/chapter-1/attempt?redirectToCover=true>)
+- I have completed chapter 1 of P4E and passsed the assignment. See the attached link below.<https://www.coursera.org/learn/python/exam/WiLXL/chapter-1/attempt?redirectToCover=true>
 
 ### 18 March
 
