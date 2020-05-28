@@ -8,12 +8,12 @@
 
 ### 16 March
 
-- [ ] Coursera online course (Python for everybody)
+- [ ] Coursera online course Python for everybody [Getting started with python](https://www.coursera.org/learn/python?specialization=python)
 - [ ] Create a new repository to track  work progress.
 - [ ] Create a new branch from existing repository (extract_sensor_names) and refactor your project (extract_unique_sensors.py).
 - [ ] Create functions that calculate force of gravity, potential energy and equation of a straight line(This is to get basic understanding on how to use functions).Then Convert my project to "functions"
 - [ ] Refactor your .py project by converting some code to list comprehension.
-- [ ] Read about Alias long Linux commands.
+- [ ] Read about Alias long Linux commands via <https://sandilands.info/sgordon/doc/aliases-prompts-and-scripting-in-linux.pdf>
 
 ### 23 March
 
@@ -32,8 +32,8 @@
 
 ### 31 March
 
-- [ ] Address comments from a reviewed pull request
-- [x] Sign up for Udemy course "Automate the Boring Stuff   with Python Programming."
+- [ ] Address comments on the [Pull request](https://github.com/mamkhari/extract_sensor_names/pull/4)
+- [x] Sign up for Udemy course "Automate the Boring Stuff   with Python Programming."[Udemy course](https://www.udemy.com/course/automate/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 
 - - -
 
@@ -41,21 +41,21 @@
 
 ### 01  - 03 April
 
-- [x] Attend classes for Automate the Boring Stuff with Python Programming.
+- [x] Attend classes for Automate the Boring Stuff with Python Programming.[Udemy course](https://www.udemy.com/course/automate/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 
 ### 15 April
 
-- [ ] Enroll for "Python Data Structures"
-- [x] I will cover chapter 6 and chapter 7 of the course. (Strings and Files)
+- [ ] Enroll for the second coursera online course from python for everybody specialization, 5-series course [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
+- [x] I will cover chapter 6 [Strings](https://www.py4e.com/html3/06-strings) and chapter 7 [Files](https://www.py4e.com/html3/07-files) of the course.
 
 ### 16 April
 
-- [ ] Cover chapter 8 of "Python Data Structures."
+- [ ] Cover chapter 8 of "Python Data Structures." [Lists](https://www.py4e.com/html3/08-lists)
 
 ### 20 April
 
-- [x] Address comments
-- [x] Do chapter 9 of "Python Data Structures"
+- [x] Address comments on the [Pull request](https://github.com/mamkhari/extract_sensor_names/pull/4)
+- [x] Do chapter 9 of "Python Data Structures" [Dictionaries](https://www.py4e.com/html3/09-dictionaries)
 
 ### 21 April
 
@@ -63,15 +63,15 @@
 
 ### 22 - 23 April
 
-- [x] Chapter 10: Use tuples in conjunction with dictionaries to accomplish multi-step tasks like sorting or looping through all of the data in a dictionary.
+- [x] Chapter 10 [Tuples](https://www.py4e.com/html3/10-tuples): Use tuples in conjunction with dictionaries to accomplish multi-step tasks like sorting or looping through all of the data in a dictionary.
 
 ### 24 April
 
-- [x] Adress comments and create a PR
+- [x] Adress comments on the [Pull request](https://github.com/mamkhari/extract_sensor_names/pull/4) and create another PR.
 
 ### 28 - 30 April
 
-- [x] Read a paper "MeerKAT design overview" <https://drive.google.com/file/d/0B8fhAW5QnZQWT3IwQlZ4RjRlU1U/view>
+- [x] Read a paper [MeerKAT design overview](https://drive.google.com/file/d/0B8fhAW5QnZQWT3IwQlZ4RjRlU1U/view)
 
 - - -
 
@@ -79,4 +79,4 @@
 
 ### 04 May
 
-- [x] Go through the [storyline for introduction to Radio Astronomy] <https://docs.google.com/presentation/d/1MIEu3Suj_Rdz7X9rnHHXIRux0_UVlSojjwvQWJyyTn8/edit#slide=id.g84b243c160_0_0>
+- [x] Go through the [storyline for introduction to Radio Astronomy](https://docs.google.com/presentation/d/1MIEu3Suj_Rdz7X9rnHHXIRux0_UVlSojjwvQWJyyTn8/edit#slide=id.g84b243c160_0_0)
