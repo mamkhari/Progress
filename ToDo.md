@@ -129,7 +129,7 @@
 ### 02 June
 
 - [ ] Read about [merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
-- Resolve the merge conflicts in this [PR](https://github.com/mamkhari/Progress/pull/9/commits/3f78fa25a2a67e21469535db1dc84f234ffad1cb)
+- [ ] Resolve the merge conflicts in this [PR](https://github.com/mamkhari/Progress/pull/9/commits/3f78fa25a2a67e21469535db1dc84f234ffad1cb)
 
 ### 03 - 04 June
 
