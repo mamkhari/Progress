@@ -9,31 +9,29 @@
 ### 16 March
 
 - [x] Coursera online course Python for everybody [Getting started with python](https://www.coursera.org/learn/python?specialization=python)
-- [ ] Create a new repository to track  work progress.
-- [ ] Create a new branch from existing repository (extract_sensor_names) and refactor your project (extract_unique_sensors.py).
+- [x] Create a new repository to track work progress.
+- [x] Create a new branch from existing repository (extract_sensor_names) and refactor your project (extract_unique_sensors.py).
 - [ ] Create functions that calculate force of gravity, potential energy and equation of a straight line(This is to get basic understanding on how to use functions).Then Convert my project to "functions"
 - [ ] Refactor your .py project by converting some code to list comprehension.
 - [x] Read about Alias long Linux commands via <https://sandilands.info/sgordon/doc/aliases-prompts-and-scripting-in-linux.pdf>
 
 ### 23 March
 
-[ ] Add test to my project:
+- [ ] Add test to my project:
+   - Read up about TDD
+   - Unit tests
+   - Type of test
+   - Type of frameworks
 
-- Read up about TDD
-- Unit tests
-- Type of test
-- Type of frameworks
-
-[ ] CI / CD - Research
-
-- Read up about CI/CD
-- Devops (tools)
-- Docker/Jenkins
+- [ ] CI/CD - Research
+   - Read up about CI/CD
+   - Devops (tools)
+   - Docker/Jenkins
 
 ### 31 March
 
 - [ ] Address comments on the [Pull request](https://github.com/mamkhari/extract_sensor_names/pull/4)
-- [x] Sign up for Udemy course "Automate the Boring Stuff   with Python Programming."[Udemy course](https://www.udemy.com/course/automate/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
+- [x] Sign up for Udemy course [Automate the Boring Stuff with Python Programming.](https://www.udemy.com/course/automate/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 
 - - -
 
