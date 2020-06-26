@@ -18,15 +18,15 @@
 ### 23 March
 
 - [ ] Add test to my project:
-   - Read up about TDD
-   - Unit tests
-   - Type of test
-   - Type of frameworks
+  - Read up about TDD
+  - Unit tests
+  - Type of test
+  - Type of frameworks
 
 - [ ] CI/CD - Research
-   - Read up about CI/CD
-   - Devops (tools)
-   - Docker/Jenkins
+  - Read up about CI/CD
+  - Devops (tools)
+  - Docker/Jenkins
 
 ### 31 March
 
@@ -122,31 +122,31 @@
 
 ### 01 June
 
-- [ ] Merge [PR](https://github.com/mamkhari/Progress/pull/9)
+- [x] Merge [PR](https://github.com/mamkhari/Progress/pull/9)
 
 ### 02 June
 
-- [ ] Read about [merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
-- [ ] Resolve the merge conflicts in this [PR](https://github.com/mamkhari/Progress/pull/9/commits/3f78fa25a2a67e21469535db1dc84f234ffad1cb)
+- [x] Read about [merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
+- [x] Resolve the merge conflicts in this [PR](https://github.com/mamkhari/Progress/pull/9/commits/3f78fa25a2a67e21469535db1dc84f234ffad1cb)
 
 ### 03 - 04 June
 
-- [ ] Learn about Test-driven development
+- [x] Learn about Test-driven development
 
 - [What is test-driven development (TDD)?](https://www.youtube.com/watch?v=QCif_-r8eK4)
 - [Test-driven development in Python](https://www.youtube.com/watch?v=IgH64tNrjOk)
 
 ### 05 June
 
-- [ ] Address comments and merge the [Pull request](https://github.com/mamkhari/extract_sensor_names/pull/7)
+- [x] Address comments and merge the [Pull request](https://github.com/mamkhari/extract_sensor_names/pull/7)
 
 ### 06 - 19 June
 
-- [ ] Read about how to [write-better-python-scripts](https://medium.com/better-programming/write-better-python-scripts-ce58c1ebf690)
-- [ ] Make a [Pull reguest](https://github.com/mamkhari/extract_sensor_names/pull/8) to clean the code
-- [ ] Implement my project by adding if \_name\_== "\_main\_": condition, and make a [PR](https://github.com/mamkhari/extract_sensor_names/pull/9)
-- [ ] Make notes in the progress branch, add examples and different type of [arguments](https://github.com/mamkhari/Progress/blob/master/learning_progress/Python_functions_and_exceptions/function_arguments.md) that can be passed to functions.
-- [ ] Write a summary explaining the different types of [exceptions](https://github.com/mamkhari/Progress/blob/master/learning_progress/Python_functions_and_exceptions/python_exceptions.md), when and why they occur.
+- [x] Read about how to [write-better-python-scripts](https://medium.com/better-programming/write-better-python-scripts-ce58c1ebf690)
+- [x] Make a [Pull reguest](https://github.com/mamkhari/extract_sensor_names/pull/8) to clean the code
+- [x] Implement my project by adding if \_name\_== "\_main\_": condition, and make a [PR](https://github.com/mamkhari/extract_sensor_names/pull/9)
+- [x] Make notes in the progress branch, add examples and different type of [arguments](https://github.com/mamkhari/Progress/blob/master/learning_progress/Python_functions_and_exceptions/function_arguments.md) that can be passed to functions.
+- [x] Write a summary explaining the different types of [exceptions](https://github.com/mamkhari/Progress/blob/master/learning_progress/Python_functions_and_exceptions/python_exceptions.md), when and why they occur.
 
 ### 22 June
 
