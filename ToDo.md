@@ -23,7 +23,7 @@
    - Type of test
    - Type of frameworks
 
-- [x] CI/CD - Research
+- [ ] CI/CD - Research
    - Read up about CI/CD
    - Devops (tools)
    - Docker/Jenkins
