@@ -168,3 +168,7 @@
 
 - [ ] Research about graphical user interface
 - [ ] Go through[Katgui tour](https://github.com/ska-sa/katgui/tree/master/tour)
+
+### 06 July
+
+- [ ] Read about [KatGUI Architecture](https://docs.google.com/document/d/1l1GKSMwo-rjKBnHmuUDG2F7fsRumGrsmK6PguxjiQig/edit)
