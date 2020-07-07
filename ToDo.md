@@ -155,3 +155,16 @@
 - Software Engineering Practices Part 1
 - Software Engineering Practices Part 2
 - Introduction to Object-Oriented Programming
+
+### 30 June
+
+- [ ] Meet with Bulelani to take me through [MT-1498](https://skaafrica.atlassian.net/secure/RapidBoard.jspa?rapidView=40&projectKey=MT&modal=detail&selectedIssue=MT-1498)
+
+- - -
+
+## July 2020
+
+### 01 - 04 July
+
+- [ ] Research about graphical user interface
+- [ ] Go through[Katgui tour](https://github.com/ska-sa/katgui/tree/master/tour)
