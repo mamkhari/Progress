@@ -172,3 +172,7 @@
 ### 06 July
 
 - [ ] Read about [KatGUI Architecture](https://docs.google.com/document/d/1l1GKSMwo-rjKBnHmuUDG2F7fsRumGrsmK6PguxjiQig/edit)
+
+### 07 July
+
+- [ ] Implement my project by making use of *args and **kwargs for passing multiple arguments to a function
