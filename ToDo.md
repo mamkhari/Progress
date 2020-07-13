@@ -160,7 +160,7 @@
 
 ### 30 June
 
-- [x] Meet with Bulelani to take me through [MT-1498](https://skaafrica.atlassian.net/secure/RapidBoard.jspa?rapidView=40&projectKey=MT&modal=detail&selectedIssue=MT-1498)
+- [x] Meet with Bulelani to take me through Jira ticket: MT-1498
 
 - - -
 
@@ -169,15 +169,15 @@
 ### 01 - 04 July
 
 - [x] Research about graphical user interface
-- [x] Go through[Katgui tour](https://github.com/ska-sa/katgui/tree/master/tour)
+- [x] Go through Katgui tour. Jira: MT-1624
 
 ### 06 - 07 July
 
-- [x] Read about [KatGUI Architecture](https://docs.google.com/document/d/1l1GKSMwo-rjKBnHmuUDG2F7fsRumGrsmK6PguxjiQig/edit)
+- [x] Read about KatGUI Architecture. Jira: MT-1624
 
 ### 08 - 09 July
 
-- [x] Read about AQF tests via [CAM Crib Notes](https://docs.google.com/document/d/10h_caF8k39i-xOieulNahip53esZgRKxpqBjd096Gss/edit#heading=h.9cupa5n6e807)
+- [x] Read about AQF tests. Jira: MT-1624
 
 ### 10 July
 
