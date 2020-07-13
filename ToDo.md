@@ -131,7 +131,7 @@
 
 ### 03 - 04 June
 
-[x] Learn about Test-driven development
+- [x] Learn about Test-driven development
 
 - [What is test-driven development (TDD)?](https://www.youtube.com/watch?v=QCif_-r8eK4)
 - [Test-driven development in Python](https://www.youtube.com/watch?v=IgH64tNrjOk)
@@ -150,7 +150,7 @@
 
 ### 22 June
 
-[x] Enrol for [aws-machine-learning-scholarship-program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) and cover the following lessons:
+- [x] Enrol for [aws-machine-learning-scholarship-program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) and cover the following lessons:
 
 - Software Engineering Practices Part 1
 - Software Engineering Practices Part 2
