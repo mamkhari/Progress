@@ -150,15 +150,17 @@
 
 ### 22 June
 
-[ ] Enrol for [aws-machine-learning-scholarship-program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) and cover the following lessons:
+[x] Enrol for [aws-machine-learning-scholarship-program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) and cover the following lessons:
 
 - Software Engineering Practices Part 1
 - Software Engineering Practices Part 2
 - Introduction to Object-Oriented Programming
 
+![AWS Machine Learning Foundations course](../home/lebukani/Pictures/AWS.png)
+
 ### 30 June
 
-- [ ] Meet with Bulelani to take me through [MT-1498](https://skaafrica.atlassian.net/secure/RapidBoard.jspa?rapidView=40&projectKey=MT&modal=detail&selectedIssue=MT-1498)
+- [x] Meet with Bulelani to take me through [MT-1498](https://skaafrica.atlassian.net/secure/RapidBoard.jspa?rapidView=40&projectKey=MT&modal=detail&selectedIssue=MT-1498)
 
 - - -
 
@@ -166,13 +168,19 @@
 
 ### 01 - 04 July
 
-- [ ] Research about graphical user interface
-- [ ] Go through[Katgui tour](https://github.com/ska-sa/katgui/tree/master/tour)
+- [x] Research about graphical user interface
+- [x] Go through[Katgui tour](https://github.com/ska-sa/katgui/tree/master/tour)
 
-### 06 July
+### 06 - 07 July
 
-- [ ] Read about [KatGUI Architecture](https://docs.google.com/document/d/1l1GKSMwo-rjKBnHmuUDG2F7fsRumGrsmK6PguxjiQig/edit)
+- [x] Read about [KatGUI Architecture](https://docs.google.com/document/d/1l1GKSMwo-rjKBnHmuUDG2F7fsRumGrsmK6PguxjiQig/edit)
 
-### 07 July
+### 08 - 09 July
 
-- [ ] Implement my project by making use of *args and **kwargs for passing multiple arguments to a function
+- [x] Read about AQF tests via [CAM Crib Notes](https://docs.google.com/document/d/10h_caF8k39i-xOieulNahip53esZgRKxpqBjd096Gss/edit#heading=h.9cupa5n6e807)
+
+### 10 July
+
+- [x] Read about nose for Python testing
+- [x] Install nose
+- [x] Install pytest
