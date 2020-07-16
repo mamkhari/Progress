@@ -114,7 +114,7 @@
 
 ### 28 May
 
-- [ ] Fix my Todo.md and address comments on [PR](https://github.com/mamkhari/Progress/pull/6)
+- [x] Fix my Todo.md and address comments on [PR](https://github.com/mamkhari/Progress/pull/6)
 
 - - -
 
@@ -156,8 +156,6 @@
 - Software Engineering Practices Part 2
 - Introduction to Object-Oriented Programming
 
-![AWS Machine Learning Foundations course](../home/lebukani/Pictures/AWS.png)
-
 ### 30 June
 
 - [x] Meet with Bulelani to take me through Jira ticket: MT-1498
@@ -168,7 +166,7 @@
 
 ### 01 - 04 July
 
-- [x] Research about graphical user interface
+- [x] Research about graphical user interface[MEERKAT GUI ARCHITECTURE](https://accelconf.web.cern.ch/ICALEPCS2015/papers/thhc3o01.pdf)
 - [x] Go through Katgui tour. Jira: MT-1624
 
 ### 06 - 07 July
@@ -181,6 +179,6 @@
 
 ### 10 July
 
-- [x] Read about nose for Python testing
+- [x] Read about nose for Python testing via [Software Carpentry](https://jensv.github.io/2014-07-28-stanford/novice/testing/nose.html)
 - [x] Install nose
 - [x] Install pytest
