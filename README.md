@@ -114,7 +114,7 @@
 
 ### 28 May
 
-- [ ] Fix my Todo.md and address comments on [PR](https://github.com/mamkhari/Progress/pull/6)
+- [x] Fix my Todo.md and address comments on [PR](https://github.com/mamkhari/Progress/pull/6)
 
 - - -
 
@@ -150,8 +150,55 @@
 
 ### 22 June
 
-- [ ] Enrol for [aws-machine-learning-scholarship-program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) and cover the following lessons:
+- [x] Enrol for [aws-machine-learning-scholarship-program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) and cover the following lessons:
 
 - Software Engineering Practices Part 1
 - Software Engineering Practices Part 2
 - Introduction to Object-Oriented Programming
+
+### 30 June
+
+- [x] Meet with Bulelani to take me through Jira ticket: MT-1498
+
+- - -
+
+## July 2020
+
+### 01 - 04 July
+
+- [x] Research about graphical user interface[MEERKAT GUI ARCHITECTURE](https://accelconf.web.cern.ch/ICALEPCS2015/papers/thhc3o01.pdf)
+- [x] Go through Katgui tour. Jira: MT-1624
+
+### 06 - 07 July
+
+- [x] Read about KatGUI Architecture. Jira: MT-1624
+
+### 08 - 09 July
+
+- [x] Read about AQF tests. Jira: MT-1624
+
+### 10 July
+
+- [x] Read about nose for Python testing via [Software Carpentry](https://jensv.github.io/2014-07-28-stanford/novice/testing/nose.html)
+- [x] Install nose
+- [x] Install pytest
+
+### 15 July
+
+- [x] Work with Bulelani to modify some text files and add more text files for TLE catalogue downloader. Jira: MT-1606
+
+### 16 July
+
+- [x] Meeting with Bulelani to update catalogue downloader for additional TLEs. Jira: MT-1606
+
+### 17 July
+
+- [x] Test catalogue downloader on deva or devb. JIra: MT-1606
+
+### 20 July
+
+- [x] Read about [Python argparse](http://zetcode.com/python/argparse/#:~:text=argparse%20module%20makes%20it%20easy,give%20the%20program%20invalid%20arguments.)
+
+### 21 July
+
+- [ ] Write a summary explaining the different types arguments that can be parsed from CLI(i.e optional, required, or positional)
