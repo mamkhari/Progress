@@ -182,3 +182,23 @@
 - [x] Read about nose for Python testing via [Software Carpentry](https://jensv.github.io/2014-07-28-stanford/novice/testing/nose.html)
 - [x] Install nose
 - [x] Install pytest
+
+### 15 July
+
+- [x] Work with Bulelani to modify some text files and add more text files for TLE catalogue downloader. Jira: MT-1606
+
+### 16 July
+
+- [x] Meeting with Bulelani to update catalogue downloader for additional TLEs. Jira: MT-1606
+
+### 17 July
+
+- [x] Test catalogue downloader on deva or devb. JIra: MT-1606
+
+### 20 July
+
+- [x] Read about [Python argparse](http://zetcode.com/python/argparse/#:~:text=argparse%20module%20makes%20it%20easy,give%20the%20program%20invalid%20arguments.)
+
+### 21 July
+
+- [ ] Write a summary explaining the different types arguments that can be parsed from CLI(i.e optional, required, or positional)
