@@ -205,7 +205,7 @@
 
 ### 23 July
 
-- [x] Meet with Suleiman to help with me understanding python argparse
+- [x] Meet with @shoosen to help with me understanding python argparse
 
 ### 24 July
 
