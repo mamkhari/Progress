@@ -201,4 +201,20 @@
 
 ### 21 July
 
-- [ ] Write a summary explaining the different types arguments that can be parsed from CLI(i.e optional, required, or positional)
+- [x] Write a summary explaining python command line interfaces with argparse: Done [PR#21](https://github.com/mamkhari/Progress/pull/21/files)
+
+### 23 July
+
+- [x] Meet with Suleiman to help with me understanding python argparse
+
+### 24 July
+
+- [x] Go through [Python Argparse Tutorial](http://zetcode.com/python/argparse/#:~:text=argparse%20module%20makes%20it%20easy,give%20the%20program%20invalid%20arguments.)
+
+- [x] Online tutorial via youtube video on [Python argparse](https://www.youtube.com/watch?v=cdblJqEUDNo)
+- [x] Watch video: [Python fundamentals- Argarse part 1](https://www.youtube.com/watch?v=TzhRdfBQ-Xo)
+- [x] Watch video: [Python fundamentals-Argparse part 2](https://www.youtube.com/watch?v=F_ixiy5VugE)
+
+### 25 July
+
+- [ ] Apply what I have learned about the python argparse to my project
