@@ -215,6 +215,7 @@
 - [x] Watch video: [Python fundamentals- Argarse part 1](https://www.youtube.com/watch?v=TzhRdfBQ-Xo)
 - [x] Watch video: [Python fundamentals-Argparse part 2](https://www.youtube.com/watch?v=F_ixiy5VugE)
 
-### 25 July
+### 27 - 28 July
 
-- [ ] Apply what I have learned about the python argparse to my project
+- [x] Apply what I have learned about the python argparse to my project
+- [x] Create a PR that parses that command line arguments on my project: Done [PR#11](https://github.com/mamkhari/extract_sensor_names/pull/11)
