@@ -219,3 +219,11 @@
 
 - [x] Apply what I have learned about the python argparse to my project
 - [x] Create a PR that parses that command line arguments on my project: Done [PR#11](https://github.com/mamkhari/extract_sensor_names/pull/11)
+
+### 30 July
+
+- [x] Spend time watching some YouTube videos for better understanding on argparse. Done: [Command line argument processing using argparse](https://www.youtube.com/watch?v=XYUXFR5FSxI)
+
+### 31 July
+
+- [ ] Address comments on [PR#11](https://github.com/mamkhari/extract_sensor_names/pull/11)
