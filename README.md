@@ -226,4 +226,18 @@
 
 ### 31 July
 
-- [ ] Address comments on [PR#11](https://github.com/mamkhari/extract_sensor_names/pull/11)
+- [x] Address comments on [PR#11](https://github.com/mamkhari/extract_sensor_names/pull/11)
+
+- - -
+
+## August 2020
+
+### 05 August
+
+- [x] Merged [PR#11](https://github.com/mamkhari/extract_sensor_names/pull/11)
+
+### 06 August 2020
+
+- [x] Attended Indoni Developers meetup event:[Mentoring Developers-open discussion](https://www.meetup.com/Indoni-Developers/events/272331037/).
+
+- [x] Went through MT-1645 and discussed it with @mmphego.
