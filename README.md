@@ -219,3 +219,25 @@
 
 - [x] Apply what I have learned about the python argparse to my project
 - [x] Create a PR that parses that command line arguments on my project: Done [PR#11](https://github.com/mamkhari/extract_sensor_names/pull/11)
+
+### 30 July
+
+- [x] Spend time watching some YouTube videos for better understanding on argparse. Done: [Command line argument processing using argparse](https://www.youtube.com/watch?v=XYUXFR5FSxI)
+
+### 31 July
+
+- [x] Address comments on [PR#11](https://github.com/mamkhari/extract_sensor_names/pull/11)
+
+- - -
+
+## August 2020
+
+### 05 August
+
+- [x] Merged [PR#11](https://github.com/mamkhari/extract_sensor_names/pull/11)
+
+### 06 August 2020
+
+- [x] Attended Indoni Developers meetup event:[Mentoring Developers-open discussion](https://www.meetup.com/Indoni-Developers/events/272331037/).
+
+- [x] Went through MT-1645 and discussed it with @mmphego.
