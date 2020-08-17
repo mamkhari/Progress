@@ -105,3 +105,11 @@ By using the level parameter, you can set what level of log messages you want to
 
     DEBUG:root:This will get logged
 All events at or above DEBUG level will now get logged.
+
+### __References__
+
+1. [Real Python](https://realpython.com/python-logging/#the-logging-module)
+
+2. [zetcode](http://zetcode.com/python/logging/)
+
+3. [medium.com](https://medium.com/better-programming/write-better-python-scripts-ce58c1ebf690)
