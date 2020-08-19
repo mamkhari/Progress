@@ -241,3 +241,15 @@
 - [x] Attended Indoni Developers meetup event:[Mentoring Developers-open discussion](https://www.meetup.com/Indoni-Developers/events/272331037/).
 
 - [x] Went through MT-1645 and discussed it with @mmphego.
+
+### 12 - 14 August
+
+- [x] Research about logging in Python via:
+
+  - [Real Python](https://realpython.com/python-logging/#the-logging-module)
+  - [zetcode](http://zetcode.com/python/logging/)
+  - [medium.com](https://medium.com/better-programming/write-better-python-scripts-ce58c1ebf690)
+
+### 17 August
+
+- [x] Write a detail report with notes that I have made with regards to logging. Done: [PR#26](https://github.com/mamkhari/Progress/pull/26)
