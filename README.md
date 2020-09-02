@@ -272,9 +272,8 @@
 - [x] Read about [unit-tests](https://docs.python.org/3/library/unittest.html)
 
 - [x] Watch youtube videos:
-  - <https://www.youtube.com/watch?v=6tNS--WetLI>
-  - <https://www.youtube.com/watch?v=bbp_849-RZ4>
-
+  - [Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
+  - [Unit Tests in Python](https://youtu.be/1Lfv5tUGsn8)
 - [x] Do a [beginners tutorial](http://tryqa.com/python-unittest-framework-tutorial-examples/)
 
 - - -
