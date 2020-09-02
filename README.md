@@ -253,3 +253,34 @@
 ### 17 August
 
 - [x] Write a detail report with notes that I have made with regards to logging. Done: [PR#26](https://github.com/mamkhari/Progress/pull/26)
+
+### 18 August
+
+- [x] Create a [PR#12](https://github.com/mamkhari/extract_sensor_names/pull/12#issue-469944407)
+
+### 20 August
+
+- [x] Read about [flake8](https://flake8.pycqa.org/en/latest/)
+- [x] Install flake8. Done: See image. ![screenshot](./flake8.png)
+
+### 24 - 27 August
+
+- [x] Address comments. Done: [PR#12](https://github.com/mamkhari/extract_sensor_names/pull/12)
+
+### 31 August
+
+- [x] Read about [unit-tests](https://docs.python.org/3/library/unittest.html)
+
+- [x] Watch youtube videos:
+  - <https://www.youtube.com/watch?v=6tNS--WetLI>
+  - <https://www.youtube.com/watch?v=bbp_849-RZ4>
+
+- [x] Do a [beginners tutorial](http://tryqa.com/python-unittest-framework-tutorial-examples/)
+
+- - -
+
+## September 2020
+
+### 01 September
+
+- [ ] Add tests to my project using unittest module
