@@ -280,6 +280,26 @@
 
 ## September 2020
 
-### 01 September
+### 01 - 04 September
 
 - [ ] Add tests to my project using unittest module
+- [x] Test read_sensors and create a pull request. Done: [PR#14](https://github.com/mamkhari/extract_sensor_names/pull/14/files)
+
+### 07 - 11September
+
+- [x] Add test cases for extract_all_sensors a nd splitting_extracted_sensors. Done: [PR#15](https://github.com/mamkhari/extract_sensor_names/pull/15/commits/8209e1460c5e2766a00af212312b6adf3c086011)
+
+- [x] Read about mocking. Done: [Introduction to mocking](https://code.tutsplus.com/tutorials/introduction-to-mocking-in-python--cms-30370)
+- [x] Mock url and file_name: [PR#15](https://github.com/mamkhari/extract_sensor_names/pull/15/commits/7223e1a035da5917ced50c5234dca5c181e27516)
+
+### 14 - 18 September
+
+- [x] Learn about the types of Python framework via:
+
+  - [Django vs Flask](https://www.youtube.com/watch?v=MVp80hz4rxM)
+  - [Learn flask for Python](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+  - [Django and Flask web frameworks](https://www.edureka.co/blog/django-vs-flask/)
+
+### 21 September
+
+- Prepare a document on the notes I have made regarding the the two types of framework. JIRA: MT-1788
