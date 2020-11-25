@@ -11,13 +11,13 @@
 - [x] Coursera online course Python for everybody [Getting started with python](https://www.coursera.org/learn/python?specialization=python)
 - [x] Create a new repository to track work progress.
 - [x] Create a new branch from existing repository (extract_sensor_names) and refactor your project (extract_unique_sensors.py).
-- [ ] Create functions that calculate force of gravity, potential energy and equation of a straight line(This is to get basic understanding on how to use functions).Then Convert my project to "functions"
+- [x] Create functions that calculate force of gravity, potential energy and equation of a straight line(This is to get basic understanding on how to use functions).Then Convert my project to "functions"
 - [ ] Refactor your .py project by converting some code to list comprehension.
 - [x] Read about Alias long Linux commands via <https://sandilands.info/sgordon/doc/aliases-prompts-and-scripting-in-linux.pdf>
 
 ### 23 March
 
-- [ ] Add test to my project:
+- [x] Add test to my project:
   - Read up about TDD
   - Unit tests
   - Type of test
@@ -30,7 +30,7 @@
 
 ### 31 March
 
-- [ ] Address comments on the [Pull request](https://github.com/mamkhari/extract_sensor_names/pull/4)
+- [x] Address comments on the [Pull request](https://github.com/mamkhari/extract_sensor_names/pull/4) : PR closed
 - [x] Sign up for Udemy course [Automate the Boring Stuff with Python Programming.](https://www.udemy.com/course/automate/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 
 - - -
@@ -43,17 +43,16 @@
 
 ### 15 April
 
-- [ ] Enroll for the second coursera online course from python for everybody specialization, 5-series course [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
-- [ ] Cover chapter 6 [Strings](https://www.py4e.com/html3/06-strings) and chapter 7 [Files](https://www.py4e.com/html3/07-files) of the course.
+- [x] Enroll for the second coursera online course from python for everybody specialization, 5-series course [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
 
 ### 16 April
 
-- [ ] Cover chapter 8 of "Python Data Structures." [Lists](https://www.py4e.com/html3/08-lists)
+- [x] Cover chapter 8 of "Python Data Structures." [Lists](https://www.py4e.com/html3/08-lists)
 
 ### 20 April
 
 - [x] Address comments on the [Pull request](https://github.com/mamkhari/extract_sensor_names/pull/4)
-- [ ] Do chapter 9 of "Python Data Structures" [Dictionaries](https://www.py4e.com/html3/09-dictionaries)
+- [x] Do chapter 9 of "Python Data Structures" [Dictionaries](https://www.py4e.com/html3/09-dictionaries)
 
 ### 21 April
 
@@ -61,7 +60,7 @@
 
 ### 22 - 23 April
 
-- [ ] Chapter 10 [Tuples](https://www.py4e.com/html3/10-tuples): Use tuples in conjunction with dictionaries to accomplish multi-step tasks like sorting or looping through all of the data in a dictionary.
+- [x] Chapter 10 [Tuples](https://www.py4e.com/html3/10-tuples): Use tuples in conjunction with dictionaries to accomplish multi-step tasks like sorting or looping through all of the data in a dictionary.
 
 ### 24 April
 
@@ -285,7 +284,7 @@
 - [ ] Add tests to my project using unittest module
 - [x] Test read_sensors and create a pull request. Done: [PR#14](https://github.com/mamkhari/extract_sensor_names/pull/14/files)
 
-### 07 - 11September
+### 07 - 11 September
 
 - [x] Add test cases for extract_all_sensors a nd splitting_extracted_sensors. Done: [PR#15](https://github.com/mamkhari/extract_sensor_names/pull/15/commits/8209e1460c5e2766a00af212312b6adf3c086011)
 
@@ -300,6 +299,119 @@
   - [Learn flask for Python](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
   - [Django and Flask web frameworks](https://www.edureka.co/blog/django-vs-flask/)
 
-### 21 September
+### 21 - 25 September 
 
-- Prepare a document on the notes I have made regarding the the two types of framework. JIRA: MT-1788
+- [x] Prepare a document on the notes I have made regarding the the two types of framework. JIRA: MT-1788
+- [x] Prepare a presentation  for learning and innovation week small talks.
+- [x] Read chapter 2: Introduction-Core Python Programming to get you into Python
+
+### 28 - 30 September
+
+-[x] Complete chapter 2 and test knowledge by completing a small project.
+
+- - - 
+
+## October 2020
+
+### 01- 02 October
+- [x] Investigate Mob programming concept. JIRA: MT-1814
+  - Useful links: [Mob Programming - A Whole Team Approach](https://www.agilealliance.org/resources/experience-reports/mob-programming-agile2014/) and [Remote Mob Programming](https://github.com/remotemobprogramming/remotemobprogramming.github.io/blob/master/README.md)
+
+  ### 05 - 07 October
+
+- [x] Go through chapter 3: Core Python Programming and cover the following topics:
+  - Statements and Syntax
+  - Variable Assignment
+  - Identifiers and Keywords
+  - Basic Style Guidelines
+
+  ### 08 - 09 October
+
+  - [x] Attend PyConZA 2020. Done: [PyCon ZA 2020](https://www.youtube.com/playlist?list=PLGjWYNrNnSucujujtwfzMIFjUC0gHgDS-)
+
+
+### 12 - 14 October 
+
+- [x] Python training- core python programming: Complete lesson 1 which and be able to:
+  - Explain the use of Python statements and syntax
+  - Perform variable assignment in Python
+  - Explain the rules regarding Python’s Identifiers and keywords
+  - Conform to Python’s basic style guidelines
+  - Fully explain what is meant by “Python’s Memory Management”
+
+### 15 October
+
+- [x] Mob programming - Update Callosal spec record. JIRA: 1853
+
+### 16 - 20 October
+
+- [x] Rest - leave
+
+### 21 October 
+
+- Python training with @shoosen: 
+
+### 22 - 26 October
+
+- [x] Read chapter 4: Python Objects and be able to:
+  - Discuss Python Objects
+  - Demonstrate an understanding of Python’s Built-in Types
+  - Demonstrate an understanding of Python’s Standard Type Operators
+  - Demonstrate an understanding of Standard type Built-in functions
+  - Categorize Python’s Standard Types
+  - List and explain some of Python’s Miscellaneous Types
+  - List an explain some types are Unsupported in Python
+
+
+### 27 October
+
+- [x] BMS Change NodeID/NamespaceIndex from 2 to 6 again. JIRA: MT-1876
+
+### 28 - 30 October
+
+- [x] Read about integers and long integers, mutable and immutable data types, the isinstance() function.
+- [x] Complete small practical for chapter 4: Core Python Programming
+- [x] Revision session for chapter 4: Core Python Programming with @shoosen
+- [x] Update the deployment checklist for Hotfix: v27 JIRA: MT-1876
+
+- - - 
+
+## November 2020
+
+### 02 - 10 November
+
+- [x] Read through chapter 5: Numbers of Core Python Programming. JIRA: MT-1898
+
+### 11 November
+
+- [x] Python session with @shoosen to discuss chapter 5 practical
+
+### 12 November
+
+- [x] SAFe and agile learning session with @wbode
+
+### 17 November
+
+- [x] MOB: Implement DelayCalculatorDevice. JIRA: MT-1928
+
+### 18 November - 19 November
+
+- [x] Read about Python sequences:Strings, Lists, and Tuples from Core Python Programming- chapter 6. JIRA: MT-1926
+
+### 20 November (Leave)
+
+- [x] Collect my certificate at Tuks. 
+
+### 23 November (Half-day leave)
+
+- [x] Read about Sequence Type Operational Built-in Functions. i.e len(), enumerate(), max(), sorted(). 
+
+### 24 November 
+
+- [x] Logged a ticket to [IT-Helpdesk](https://skaafrica.atlassian.net/jira/software/c/projects/IT/issues)
+
+### 25 November
+
+- [x] Took computer to IT as I was experiencing issues. IT-10843
+- [x] Update my learning progress
+- [x] Finalise Annual Progress Report to HCD
