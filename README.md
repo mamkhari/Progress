@@ -307,7 +307,7 @@
 
 ### 28 - 30 September
 
--[x] Complete chapter 2 and test knowledge by completing a small project.
+- [x] Complete chapter 2 and test knowledge by completing a small project.
 
 - - - 
 
